@@ -11,7 +11,7 @@ Key focuses include:
 This project showcases proficiency in Python, pandas, NumPy, Matplotlib, and Seaborn.
 
 ## Dataset
-The dataset (`ASA All PGA Raw Data.csv`) contains tournament-level PGA Tour data with 37 columns, including:
+The dataset (`ASA All PGA Raw Data - Tourn Level.csv`) contains tournament-level PGA Tour data with 37 columns, including:
 - Player and tournament information (`player`, `tournament name`, `course`, `date`, `season`).
 - Performance metrics (`strokes`, `hole_par`, `finish_position`).
 - Strokes gained metrics (`sg_putt`, `sg_arg`, `sg_app`, `sg_ott`, `sg_t2g`, `sg_total`).
