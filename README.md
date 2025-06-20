@@ -1,7 +1,7 @@
 # PGA Tournament Data Cleaning and Exploratory Data Analysis (EDA) Project
 
 ## Overview
-This project involves cleaning and analyzing a comprehensive dataset of PGA Tour tournament data (`ASA All PGA Raw Data.csv`) to uncover insights into player performance across tournaments and courses. The dataset includes player statistics, tournament details, strokes gained metrics (e.g., `sg_total`, `sg_putt`, `sg_app`), and fantasy points. The project demonstrates data cleaning techniques to handle missing values, inconsistent formats, and non-numeric data, followed by exploratory data analysis (EDA) to identify top performers, course difficulty, and performance trends.
+This project involves cleaning and analyzing a comprehensive dataset of PGA Tour tournament data (`ASA All PGA Raw Data - Tourn Level.csv`) to uncover insights into player performance across tournaments and courses. The dataset includes player statistics, tournament details, strokes gained metrics (e.g., `sg_total`, `sg_putt`, `sg_app`), and fantasy points. The project demonstrates data cleaning techniques to handle missing values, inconsistent formats, and non-numeric data, followed by exploratory data analysis (EDA) to identify top performers, course difficulty, and performance trends.
 
 Key focuses include:
 - **Data Cleaning**: Handling missing values, standardizing non-numeric `Finish` values (e.g., `T32`, `CUT`, `NA`), removing duplicate values, and ensuring data consistency.
