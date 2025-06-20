@@ -26,4 +26,8 @@ The dataset (`ASA All PGA Raw Data.csv`) contains tournament-level PGA Tour data
 To run the project, install the required Python libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn
+Download the required csv files:
+Original for full cleaning and EDA experience
+Cleaned for a simple EDA
 
+Instructions are included in the Jupyter Notebook file to follow along with if you so choose. 
